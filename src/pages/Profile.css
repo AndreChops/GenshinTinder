@@ -1,0 +1,37 @@
+ion-content{
+    --background-image: url(/public/assets/image/bg-profile.jpg) !important;
+}
+
+#profile-icon{
+    margin-right: 10px;
+}
+
+/*Instagram*/
+.instagram-button{
+    --background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(255,35,35,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+/*Discord*/
+.discord-button{
+    --background: #5865F2;
+}
+
+/*Youtube*/
+.youtube-button{
+    --background: #ff0000f1;
+}
+
+/*Github*/
+.github-button{
+    --background: #000000f1;
+}
+
+/*Spotify*/
+.spotify-button{
+    --background: #51dd00f1;
+}
+
+#name{
+    font-weight: bold;
+}
+
